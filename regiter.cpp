@@ -15,7 +15,7 @@ int main ()
     int c;
 
     cout<<"\n\n\n\t\t\t_________________________________________________________________\n\n\n";
-    cout<<"\t\t\t              |____Welcome Wo Wogin Page____|                    \n\n\n";
+    cout<<"\t\t\t              |____Welcome Wo login Page____|                    \n\n\n";
     cout<<"\t\t\t                       ----MENU----                           \n\n";
     cout<<"                                                                    \n\n";
     cout<<"\t |  Press 1 to Login |"<<endl;
