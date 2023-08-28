@@ -17,3 +17,13 @@ Password Hashing: Passwords are hashed before storage using a secure hashing alg
 User Interface: The program provides a basic command-line interface for user interaction. It prompts the user for input and displays appropriate messages based on the login or registration outcome.
 
 Error Handling: The program includes error handling to handle scenarios such as incorrect usernames, password mismatches, and file I/O errors.
+
+
+Dependencies
+This project doesn't have any external dependencies other than a C++ compiler. It uses standard C++ libraries for file I/O, string manipulation, and hashing.
+
+Security Considerations
+While this project demonstrates basic user authentication, it's important to note that real-world security demands additional measures, including encryption, more advanced hashing algorithms, and protection against common attacks like SQL injection.
+
+Contributions
+Contributions to the project are welcome! If you find any issues or want to enhance the functionality, feel free to open a pull request.
